@@ -89,8 +89,9 @@ I value **clarity over cleverness** and **stability over shortcuts**.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ditiss-abhijeet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditiss-abhijeet&layout=compact&hide_border=true" height="160" alt="Top Languages" />
+![GitHub followers](https://img.shields.io/github/followers/ditiss-abhijeet?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/ditiss-abhijeet?style=flat)
+
 </p>
 
 ---
