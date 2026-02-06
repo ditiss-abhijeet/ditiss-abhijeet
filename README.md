@@ -9,6 +9,10 @@ Designing stable, scalable, and boring production systems
   <img src="https://komarev.com/ghpvc/?username=ditiss-abhijeet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+![Followers](https://img.shields.io/github/followers/ditiss-abhijeet?style=flat&color=blue)
+![Stars](https://img.shields.io/github/stars/ditiss-abhijeet?style=flat&color=yellow)
+
+
 ---
 
 ## About Me
