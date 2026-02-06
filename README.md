@@ -48,7 +48,7 @@ I enjoy turning complex infrastructure into **predictable, automated, and observ
 
 <h4 align="left">DevOps, Observability & Datastores</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,jenkins,grafana,mysql,elasticsearch,elk" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,jenkins,terraform,prometheus,grafana,mysql,elasticsearch" />
 </p>
 
 <h4 align="left">Containers & Orchestration</h4>
