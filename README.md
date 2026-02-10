@@ -66,7 +66,7 @@ I enjoy turning complex infrastructure into **predictable, automated, and observ
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/Abhijeet" target="_blank">
+  <a href="https://github.com/jgd-abhi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
   </a>
 </p>
